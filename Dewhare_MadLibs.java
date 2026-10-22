@@ -5,23 +5,23 @@ public class Dewhare_MadLibs {
 
         Scanner sc = new Scanner(System.in); // scanner to take in user input
      
-        System.out.println("Enter a noun");
-        String noun1 = sc.nextLine();
+        System.out.println("Enter a noun"); // text for entering a noun
+        String noun1 = sc.nextLine(); // captures the input and stores in noun1 variable
         
-        System.out.println("Enter a verb (ending with -ed).");
-        String verb1 = sc.nextLine();
+        System.out.println("Enter a verb (ending with -ed)."); // text for entering a verb
+        String verb1 = sc.nextLine(); // captures the input and stores in verb1 variable
 
-        System.out.println("Enter a noun (name):");
-        String noun2 = sc.nextLine();
+        System.out.println("Enter a noun (name):"); // text for entering a noun
+        String noun2 = sc.nextLine(); // captures the input and stores in noun2 variable
 
-        System.out.println("Enter noun (location):");
-        String noun3 = sc.nextLine();
+        System.out.println("Enter noun (location):"); // text for entering a noun
+        String noun3 = sc.nextLine(); // captures the input and stores in noun3 variable
 
-        System.out.println("Enter an adjective (descriptive):");
-        String adj1 = sc.nextLine();
+        System.out.println("Enter an adjective (descriptive):"); // text for entering a adjective
+        String adj1 = sc.nextLine(); // captures the input and stores in adj1 variable
 
-        System.out.println("Enter a verb (ending with -ed).");
-        String verb2 = sc.nextLine();
+        System.out.println("Enter a verb (ending with -ed)."); // text for entering a verb
+        String verb2 = sc.nextLine(); // captures the input and stores in verb2 variable
 
         //final noun count: 3
         //final verb count: 2
