@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Dewhare_MadLibs {
     public static void main (String[] args) {
 
+        Scanner sc = new Scanner(System.in); // scanner to take in user input
+     
         System.out.println("Enter a noun");
-        Scanner sc = new Scanner(System.in);
-
         String noun1 = sc.nextLine();
         
         System.out.println("Enter a verb (ending with -ed).");
@@ -23,7 +23,11 @@ public class Dewhare_MadLibs {
         System.out.println("Enter a verb (ending with -ed).");
         String verb2 = sc.nextLine();
 
-        String story = "One day I woke up and it was raining " + noun1 + ".";
+        //final noun count: 3
+        //final verb count: 2
+        //final adjective count: 1
+
+        String story = "One day I woke up and it was raining " + noun1 + "."; //concatenation to make the code easier to read
         story += " I was "+ verb1 +" by the sight.";
         story += " I was called by " + noun2 + " to ask them if they still wanted to go to " + noun3 + ".";
         story += " While we were outside, the rain was very " + adj1 + ".";
