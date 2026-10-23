@@ -34,6 +34,6 @@ public class Dewhare_MadLibs {
         story += " After we had a nice day together, I " + verb2 + " them in the face.";
 
         System.out.println(story);
-
+        sc.close();
     }
 }
