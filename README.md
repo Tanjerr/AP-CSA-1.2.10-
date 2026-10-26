@@ -9,4 +9,13 @@
   - Forking main repo
   - Figured out everything on GitHub
 
-## Thurd
+## Thursday
+  - Started creating outlines
+  - Started working on code
+  - Finished a lot of code by end of class
+
+## Friday
+  - Finishing code
+  - Figuring out what parsing means
+  - Asking for help
+  - Implying what we learned on code
