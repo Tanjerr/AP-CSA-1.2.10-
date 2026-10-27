@@ -19,3 +19,6 @@
   - Figuring out what parsing means
   - Asking for help
   - Implying what we learned on code
+
+**Screenshot of Functionality**
+<img width="1630" height="291" alt="image" src="https://github.com/user-attachments/assets/448d225f-3198-4d86-983e-7565f5f40907" />
